@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate none
 - 📫 How to reach me undefined
 - 😄 Pronouns: king
-- ⚡ Fun fact: i'm superhuman
+- ⚡ Fun fact: null
 
 <!---
 j5b4y3r/j5b4y3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
